@@ -1,0 +1,7 @@
+Name
+Author
+User Rating
+Reviews
+Price
+Year
+Genre

@@ -1,0 +1,10 @@
+showid
+type
+title
+director
+cast
+country
+dateadded
+releaseyear
+rating
+duration
